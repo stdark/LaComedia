@@ -1,0 +1,47 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     3043 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.197 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Алексей\Documents\Божественная комедия\Божественная комедия_Data\Managed\System.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.023020 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 173.
+Total: 0.600675 ms (FindLiveObjects: 0.092845 ms CreateObjectMapping: 0.026673 ms MarkObjects: 0.438580 ms  DeleteObjects: 0.036933 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.270601 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.333423 ms (FindLiveObjects: 0.041036 ms CreateObjectMapping: 0.015901 ms MarkObjects: 0.254940 ms  DeleteObjects: 0.020005 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.950001 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 170.
+Total: 0.366253 ms (FindLiveObjects: 0.044114 ms CreateObjectMapping: 0.018979 ms MarkObjects: 0.283153 ms  DeleteObjects: 0.018466 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.064391 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 340.
+Total: 0.458072 ms (FindLiveObjects: 0.068736 ms CreateObjectMapping: 0.018466 ms MarkObjects: 0.348812 ms  DeleteObjects: 0.020518 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.190066 ms
